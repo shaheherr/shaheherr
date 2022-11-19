@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Shaheer
-- 👀 I’m 
+- 👀 I’m a data science enthusiast
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 You can reach me at shaheererror@gmail.com
 
