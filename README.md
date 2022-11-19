@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Shaheer
-- 👀 I’m interested in Machine Learning & Artificial Intelligence
-- 💞️ I’m looking to collaborate on pythonic projects
+- 👀 I’m 
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 You can reach me at shaheererror@gmail.com
 
 <!---
